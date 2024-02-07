@@ -9,7 +9,7 @@ assignees: HenriKCorrea
 
 ### Description
 
-As a \<actor\>, I want to \<use case\>, So I can \<business value\>.
+As a ___actor___, I want to ___use_case___, So I can ___business_value___.
 
 ### Definition of Ready
 
@@ -17,7 +17,7 @@ None
 
 ### Acceptance Criteria
 
-- System shall \<requirement\>
+- System shall ___requirement___
 
 ### Definition of Done
 
